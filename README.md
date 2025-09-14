@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Clothing website](http://127.0.0.1:5500/index.html)
 
-- 🌱 I’m currently learning **Bsc Software Engineering at NIBM (SL),Kotlin,NodeJS...**
+- 🌱 I’m currently learning **Bsc Software Engineering at Coventry University UK (SL),Kotlin,NodeJS...**
 
-- 💬 Ask me about **C#,JS,NodeJS,HTML**
+- 💬 Ask me about ** C#,JS,NodeJS,HTML,ReactJs,C++ **
 
 - 📫 How to reach me **weerasinghesohan@gmail.com**
 
